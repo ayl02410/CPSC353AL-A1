@@ -29,3 +29,11 @@ d: inputImage.jpg
 
 e: outputImage.jpg
 -> the image out as a result of embedding the user’s message.
+
+
+Attributions:
+https://stackoverflow.com/questions/7396849/convert-binary-to-ascii-and-vice-versa
+https://stackoverflow.com/questions/40557335/binary-to-string-text-in-python
+https://i.pinimg.com/originals/4d/c4/d2/4dc4d2aab239e25d15c3e871e7009482.jpg
+https://stackoverflow.com/questions/12173774/modify-bits-in-an-integer-in-python
+
